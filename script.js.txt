@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Товары магазина
     const products = [
-        { id: 1, name: "Платье", price: 2500, category: "clothing" },
+        { id: 1, name: "Платье", price: 250, category: "clothing" },
         { id: 2, name: "Сумка", price: 1500, category: "accessories" },
         { id: 3, name: "Куртка", price: 5000, category: "clothing" },
         { id: 4, name: "Часы", price: 3500, category: "accessories" }
